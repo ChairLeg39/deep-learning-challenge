@@ -52,4 +52,4 @@ The analysis is based on a dataset containing information about more than 34,000
 
 ## Findings
 
-(To be added after analysis completion)
+Using a dataset of over 34,000 past funding recipients, a neural network model was developed that achieved an accuracy of approximately 73% across multiple optimization attempts. Despite efforts in hyperparameter tuning, including adjusting model complexity and activation functions, the model fell short of the 75% target accuracy. The consistent performance suggests that the problem may be inherently challenging given the available features, or that the current approach may have reached its limit in extracting meaningful patterns from the data. Further improvements may require exploring alternative modeling techniques, engaging in more extensive feature engineering, or exploring other machine learning algorithms. For more information, see the `Neural Network Model Report`.
